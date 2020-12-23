@@ -16,6 +16,7 @@
         <option value="administrador">Administrador</option>
     </select>
     <input class="btn btn-primary" type="submit" name="submit" value="Guardar">
+    <!--<button id="btnValidar">validar</button>-->
     </div>
 </form>
 <?php
